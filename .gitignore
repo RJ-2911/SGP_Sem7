@@ -1,0 +1,16 @@
+
+# Node.js dependencies and generated output
+node_modules/
+dist/
+coverage/
+*.local
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor files
+.vscode/*
+!.vscode/extensions.json
+.idea/
